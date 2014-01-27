@@ -21,6 +21,10 @@ body {
 	font-size: 32px;
 	color: #455F75;
 }
+.social a span {
+	text-indent: -2000px;
+	display: inline-block;
+}
 .social a:hover {
 	color: #428bca;
 }
