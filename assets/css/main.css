@@ -8,3 +8,19 @@ body {
 .btn {
 	margin-bottom: 4px;
 }
+.social {
+	margin-top: 40px;
+}
+.social .cta {
+	display: block;
+	font-size: 10px;
+	color: #666;
+}
+.social a {
+	margin: 2px;
+	font-size: 32px;
+	color: #455F75;
+}
+.social a:hover {
+	color: #428bca;
+}
